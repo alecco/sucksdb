@@ -1,2 +1,2 @@
 # sucksdb
-PoC LevelDB/RocksDB is not good a good database architecture
+PoC LevelDB/RocksDB is not a good database architecture
